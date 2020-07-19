@@ -11,6 +11,10 @@ public class Canara  extends Rbi {
 System.out.println("deposit");
 
 	}
+	private void loanAmount() {
+		System.out.println("1000000"); 
+
+	}
 	
 public static void main(String[] args) {
 	
@@ -21,7 +25,7 @@ public static void main(String[] args) {
 	c.adharId();
 	c.savings();
 	
-	
+	c.loanAmount();
 	
 	
 	
